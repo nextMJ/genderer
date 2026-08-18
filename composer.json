@@ -1,5 +1,5 @@
 {
-	"name": "haltuf/genderer",
+	"name": "nextMJ/genderer",
 	"type": "library",
 	"keywords": ["gender","name","salutation","czech"],
 	"description": "Independent library to detect gender by name in Czech. Also returns 5th grammatical case (vocative) for salutation.",
